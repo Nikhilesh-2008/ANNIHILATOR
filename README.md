@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nikhilesh-2008/ANNIHILATOR/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Nikhilesh-2008/ANNIHILATOR/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Nikhilesh-2008/ANNIHILATOR/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Nikhilesh-2008/ANNIHILATOR/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Sliding Window
@@ -49,4 +50,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Nikhilesh-2008/ANNIHILATOR/tree/master/1561-maximum-number-of-coins-you-can-get) |
+## Stack
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Nikhilesh-2008/ANNIHILATOR/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Nikhilesh-2008/ANNIHILATOR/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
