@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nikhilesh-2008/ANNIHILATOR/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0697-degree-of-an-array](https://github.com/Nikhilesh-2008/ANNIHILATOR/tree/master/0697-degree-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Nikhilesh-2008/ANNIHILATOR/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Nikhilesh-2008/ANNIHILATOR/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Nikhilesh-2008/ANNIHILATOR/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Nikhilesh-2008/ANNIHILATOR/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0697-degree-of-an-array](https://github.com/Nikhilesh-2008/ANNIHILATOR/tree/master/0697-degree-of-an-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Nikhilesh-2008/ANNIHILATOR/tree/master/1004-max-consecutive-ones-iii) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Nikhilesh-2008/ANNIHILATOR/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Nikhilesh-2008/ANNIHILATOR/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
