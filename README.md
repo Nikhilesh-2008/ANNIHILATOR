@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Nikhilesh-2008/ANNIHILATOR/tree/master/1004-max-consecutive-ones-iii) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Nikhilesh-2008/ANNIHILATOR/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Nikhilesh-2008/ANNIHILATOR/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1991-find-the-middle-index-in-array](https://github.com/Nikhilesh-2008/ANNIHILATOR/tree/master/1991-find-the-middle-index-in-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Nikhilesh-2008/ANNIHILATOR/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Nikhilesh-2008/ANNIHILATOR/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 ## Binary Search
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/Nikhilesh-2008/ANNIHILATOR/tree/master/1004-max-consecutive-ones-iii) |
+| [1991-find-the-middle-index-in-array](https://github.com/Nikhilesh-2008/ANNIHILATOR/tree/master/1991-find-the-middle-index-in-array) |
 ## Math
 |  |
 | ------- |
