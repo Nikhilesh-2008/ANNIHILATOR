@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/Nikhilesh-2008/ANNIHILATOR/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [1004-max-consecutive-ones-iii](https://github.com/Nikhilesh-2008/ANNIHILATOR/tree/master/1004-max-consecutive-ones-iii) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Nikhilesh-2008/ANNIHILATOR/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Nikhilesh-2008/ANNIHILATOR/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
