@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Nikhilesh-2008/ANNIHILATOR/tree/master/0075-sort-colors) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Nikhilesh-2008/ANNIHILATOR/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0697-degree-of-an-array](https://github.com/Nikhilesh-2008/ANNIHILATOR/tree/master/0697-degree-of-an-array) |
 | [0724-find-pivot-index](https://github.com/Nikhilesh-2008/ANNIHILATOR/tree/master/0724-find-pivot-index) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Nikhilesh-2008/ANNIHILATOR/tree/master/0075-sort-colors) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Nikhilesh-2008/ANNIHILATOR/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Nikhilesh-2008/ANNIHILATOR/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Game Theory
@@ -84,4 +86,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Nikhilesh-2008/ANNIHILATOR/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Nikhilesh-2008/ANNIHILATOR/tree/master/0075-sort-colors) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Nikhilesh-2008/ANNIHILATOR/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Nikhilesh-2008/ANNIHILATOR/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
