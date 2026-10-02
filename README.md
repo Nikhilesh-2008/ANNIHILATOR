@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nikhilesh-2008/ANNIHILATOR/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0073-set-matrix-zeroes](https://github.com/Nikhilesh-2008/ANNIHILATOR/tree/master/0073-set-matrix-zeroes) |
 | [0697-degree-of-an-array](https://github.com/Nikhilesh-2008/ANNIHILATOR/tree/master/0697-degree-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Nikhilesh-2008/ANNIHILATOR/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Nikhilesh-2008/ANNIHILATOR/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Nikhilesh-2008/ANNIHILATOR/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Nikhilesh-2008/ANNIHILATOR/tree/master/0075-sort-colors) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Nikhilesh-2008/ANNIHILATOR/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0697-degree-of-an-array](https://github.com/Nikhilesh-2008/ANNIHILATOR/tree/master/0697-degree-of-an-array) |
@@ -98,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Nikhilesh-2008/ANNIHILATOR/tree/master/0075-sort-colors) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/Nikhilesh-2008/ANNIHILATOR/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
