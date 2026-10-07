@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1991-find-the-middle-index-in-array](https://github.com/Nikhilesh-2008/ANNIHILATOR/tree/master/1991-find-the-middle-index-in-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Nikhilesh-2008/ANNIHILATOR/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Nikhilesh-2008/ANNIHILATOR/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
+| [4062-transform-array-using-pair-operations](https://github.com/Nikhilesh-2008/ANNIHILATOR/tree/master/4062-transform-array-using-pair-operations) |
 ## Binary Search
 |  |
 | ------- |
@@ -120,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/Nikhilesh-2008/ANNIHILATOR/tree/master/0090-subsets-ii) |
+## Brainteaser
+|  |
+| ------- |
+| [4062-transform-array-using-pair-operations](https://github.com/Nikhilesh-2008/ANNIHILATOR/tree/master/4062-transform-array-using-pair-operations) |
 <!---LeetCode Topics End-->
