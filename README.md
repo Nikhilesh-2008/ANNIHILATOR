@@ -128,4 +128,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [4062-transform-array-using-pair-operations](https://github.com/Nikhilesh-2008/ANNIHILATOR/tree/master/4062-transform-array-using-pair-operations) |
+## Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/Nikhilesh-2008/ANNIHILATOR/tree/master/0700-search-in-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/Nikhilesh-2008/ANNIHILATOR/tree/master/0700-search-in-a-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/Nikhilesh-2008/ANNIHILATOR/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
