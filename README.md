@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Nikhilesh-2008/ANNIHILATOR/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/Nikhilesh-2008/ANNIHILATOR/tree/master/2409-count-days-spent-together) |
 | [3794-reverse-string-prefix](https://github.com/Nikhilesh-2008/ANNIHILATOR/tree/master/3794-reverse-string-prefix) |
+| [3986-number-of-elapsed-seconds-between-two-times](https://github.com/Nikhilesh-2008/ANNIHILATOR/tree/master/3986-number-of-elapsed-seconds-between-two-times) |
 ## Sliding Window
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2409-count-days-spent-together](https://github.com/Nikhilesh-2008/ANNIHILATOR/tree/master/2409-count-days-spent-together) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Nikhilesh-2008/ANNIHILATOR/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Nikhilesh-2008/ANNIHILATOR/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3986-number-of-elapsed-seconds-between-two-times](https://github.com/Nikhilesh-2008/ANNIHILATOR/tree/master/3986-number-of-elapsed-seconds-between-two-times) |
 ## Greedy
 |  |
 | ------- |
