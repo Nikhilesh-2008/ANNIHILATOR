@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Nikhilesh-2008/ANNIHILATOR/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1991-find-the-middle-index-in-array](https://github.com/Nikhilesh-2008/ANNIHILATOR/tree/master/1991-find-the-middle-index-in-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Nikhilesh-2008/ANNIHILATOR/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Nikhilesh-2008/ANNIHILATOR/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Nikhilesh-2008/ANNIHILATOR/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Nikhilesh-2008/ANNIHILATOR/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [4062-transform-array-using-pair-operations](https://github.com/Nikhilesh-2008/ANNIHILATOR/tree/master/4062-transform-array-using-pair-operations) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/Nikhilesh-2008/ANNIHILATOR/tree/master/0728-self-dividing-numbers) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Nikhilesh-2008/ANNIHILATOR/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2409-count-days-spent-together](https://github.com/Nikhilesh-2008/ANNIHILATOR/tree/master/2409-count-days-spent-together) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Nikhilesh-2008/ANNIHILATOR/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Greedy
 |  |
 | ------- |
