@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Nikhilesh-2008/ANNIHILATOR/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Nikhilesh-2008/ANNIHILATOR/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Nikhilesh-2008/ANNIHILATOR/tree/master/0075-sort-colors) |
 | [0090-subsets-ii](https://github.com/Nikhilesh-2008/ANNIHILATOR/tree/master/0090-subsets-ii) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Nikhilesh-2008/ANNIHILATOR/tree/master/0066-plus-one) |
 | [0728-self-dividing-numbers](https://github.com/Nikhilesh-2008/ANNIHILATOR/tree/master/0728-self-dividing-numbers) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Nikhilesh-2008/ANNIHILATOR/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2409-count-days-spent-together](https://github.com/Nikhilesh-2008/ANNIHILATOR/tree/master/2409-count-days-spent-together) |
