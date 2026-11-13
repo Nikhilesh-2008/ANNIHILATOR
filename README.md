@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Nikhilesh-2008/ANNIHILATOR/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Nikhilesh-2008/ANNIHILATOR/tree/master/0075-sort-colors) |
 | [0090-subsets-ii](https://github.com/Nikhilesh-2008/ANNIHILATOR/tree/master/0090-subsets-ii) |
+| [0503-next-greater-element-ii](https://github.com/Nikhilesh-2008/ANNIHILATOR/tree/master/0503-next-greater-element-ii) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Nikhilesh-2008/ANNIHILATOR/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0697-degree-of-an-array](https://github.com/Nikhilesh-2008/ANNIHILATOR/tree/master/0697-degree-of-an-array) |
 | [0724-find-pivot-index](https://github.com/Nikhilesh-2008/ANNIHILATOR/tree/master/0724-find-pivot-index) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Nikhilesh-2008/ANNIHILATOR/tree/master/0020-valid-parentheses) |
+| [0503-next-greater-element-ii](https://github.com/Nikhilesh-2008/ANNIHILATOR/tree/master/0503-next-greater-element-ii) |
 | [0856-score-of-parentheses](https://github.com/Nikhilesh-2008/ANNIHILATOR/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Nikhilesh-2008/ANNIHILATOR/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Nikhilesh-2008/ANNIHILATOR/tree/master/1021-remove-outermost-parentheses) |
@@ -173,4 +175,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Nikhilesh-2008/ANNIHILATOR/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/Nikhilesh-2008/ANNIHILATOR/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
