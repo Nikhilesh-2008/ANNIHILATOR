@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nikhilesh-2008/ANNIHILATOR/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/Nikhilesh-2008/ANNIHILATOR/tree/master/0073-set-matrix-zeroes) |
 | [0697-degree-of-an-array](https://github.com/Nikhilesh-2008/ANNIHILATOR/tree/master/0697-degree-of-an-array) |
+| [1002-find-common-characters](https://github.com/Nikhilesh-2008/ANNIHILATOR/tree/master/1002-find-common-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Nikhilesh-2008/ANNIHILATOR/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Nikhilesh-2008/ANNIHILATOR/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Nikhilesh-2008/ANNIHILATOR/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Nikhilesh-2008/ANNIHILATOR/tree/master/0020-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/Nikhilesh-2008/ANNIHILATOR/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Nikhilesh-2008/ANNIHILATOR/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1002-find-common-characters](https://github.com/Nikhilesh-2008/ANNIHILATOR/tree/master/1002-find-common-characters) |
 | [1021-remove-outermost-parentheses](https://github.com/Nikhilesh-2008/ANNIHILATOR/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Nikhilesh-2008/ANNIHILATOR/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Nikhilesh-2008/ANNIHILATOR/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Nikhilesh-2008/ANNIHILATOR/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0697-degree-of-an-array](https://github.com/Nikhilesh-2008/ANNIHILATOR/tree/master/0697-degree-of-an-array) |
 | [0724-find-pivot-index](https://github.com/Nikhilesh-2008/ANNIHILATOR/tree/master/0724-find-pivot-index) |
+| [1002-find-common-characters](https://github.com/Nikhilesh-2008/ANNIHILATOR/tree/master/1002-find-common-characters) |
 | [1004-max-consecutive-ones-iii](https://github.com/Nikhilesh-2008/ANNIHILATOR/tree/master/1004-max-consecutive-ones-iii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Nikhilesh-2008/ANNIHILATOR/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Nikhilesh-2008/ANNIHILATOR/tree/master/1385-find-the-distance-value-between-two-arrays) |
