@@ -179,4 +179,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/Nikhilesh-2008/ANNIHILATOR/tree/master/0503-next-greater-element-ii) |
+## Database
+|  |
+| ------- |
+| [0610-triangle-judgement](https://github.com/Nikhilesh-2008/ANNIHILATOR/tree/master/0610-triangle-judgement) |
 <!---LeetCode Topics End-->
