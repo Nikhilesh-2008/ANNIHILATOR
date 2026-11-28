@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0610-triangle-judgement](https://github.com/Nikhilesh-2008/ANNIHILATOR/tree/master/0610-triangle-judgement) |
+| [1741-find-total-time-spent-by-each-employee](https://github.com/Nikhilesh-2008/ANNIHILATOR/tree/master/1741-find-total-time-spent-by-each-employee) |
 ## Number Theory
 |  |
 | ------- |
